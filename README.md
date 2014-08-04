@@ -3,15 +3,15 @@ CI_shortcodes
 
 [shortcodes]
 
-Implement Wordpress Shortcode to Codeigniter
+Implement Wordpress Shortcode to Codeigniter <br>
 file that to be used.
 
-Library
+Library : <br>
 library/Shortcodes.php
 
-Sample Helper
+Sample Helper : <br>
 helper/shortcode_helper.php
 
-Sample Controller
+Sample Controller : <br>
 cobashortcode.php
 
